@@ -62,3 +62,5 @@
 [user]
 	email = ruikan0809@gmail.com
 	name = RUI KAN
+[safe]
+	directory = /opt/homebrew/Homebrew

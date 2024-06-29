@@ -67,6 +67,6 @@ export LC_ALL=en_US.UTF-8
 
 export BUNDLER_EDITOR=code
 export EDITOR=code
-
+export PATH="/opt/homebrew/opt/libpq/bin:$PATH"
 # Set ipdb as the default Python debugger
 export PYTHONBREAKPOINT=ipdb.set_trace
